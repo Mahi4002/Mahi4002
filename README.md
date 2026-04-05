@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahi4002
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in frontend development & data analyst
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
